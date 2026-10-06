@@ -4,7 +4,7 @@ Last updated: 6 October 2026
 
 Your privacy is important to us.
 
-Data Collection
+**Data Collection**
 
 Our applications do not collect, process, sell, or share your personal data.
 
@@ -14,7 +14,7 @@ We do not:
 • Use advertising trackers
 • Access the content you create within our applications
 
-Data Storage
+**Data Storage**
 
 Your application data remains:
 
@@ -25,7 +25,6 @@ Your iCloud data is associated with your Apple Account and managed by Apple. We 
 
 Apple’s handling of iCloud data is governed by the Apple Privacy Policy.
 
-Contact
+**Contact**
 
-If you have any questions about this privacy policy, contact us at:
-gregory.lloyd@icloud.com
+If you have any questions about this privacy policy, contact us at: gregory.lloyd@icloud.com
